@@ -1,0 +1,1 @@
+https://github.com/eucuepo/vagrant-kafka
